@@ -2,6 +2,8 @@
 
 SnapBuy AI is an intelligent visual search system that lets users upload an image of a product and instantly get similar product recommendations — both from a local AI model **and live Google search results**.
 
+🚀 [Live Demo on Streamlit](https://snapbuy-ai-k5lbwpm2jdzj5sms2kuus6.streamlit.app)
+
 Built with ❤️ using **Streamlit**, **PyTorch (ResNet50)**, **FAISS**, and **Google Custom Search API**, this project brings real-world e-commerce experience into an interactive web app.
 
 ---
