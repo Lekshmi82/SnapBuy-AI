@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Bag",
+        "price": 1499,
+        "image": "product_images/bag.jpg"
+    },
+    {
+        "name": "Coat",
+        "price": 2999,
+        "image": "product_images/coat.jpg"
+    },
+    {
+        "name": "Handbag",
+        "price": 1799,
+        "image": "product_images/handbag.jpg"
+    },
+    {
+        "name": "Pant",
+        "price": 1199,
+        "image": "product_images/pant.jpg"
+    },
+    {
+        "name": "Shirt",
+        "price": 899,
+        "image": "product_images/shirt.jpg"
+    },
+    {
+        "name": "T-Shirt",
+        "price": 599,
+        "image": "product_images/tshirt.jpg"
+    },
+    {
+        "name": "Watch",
+        "price": 4999,
+        "image": "product_images/watch.jpg"
+    },
+    {
+        "name": "Jacket",
+        "price": 2599,
+        "image": "product_images/men.jpg"
+    }
+]
