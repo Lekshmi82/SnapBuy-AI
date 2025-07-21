@@ -68,13 +68,6 @@ Create a Custom Search Engine here
 
 Get your CSE ID and API key from Google Cloud Console
 
-Paste them into app.py
-
-python
-Copy
-Edit
-api_key = "YOUR_API_KEY"
-cse_id = "YOUR_CSE_ID"
 📦 Folder Structure
 pgsql
 Copy
@@ -98,7 +91,7 @@ SnapBuy-AI/
 J.S. Lekshmi Priya
 📍 Final Year, Android Developer
 💡 Passionate about AI + App Development
-📫 LinkedIn
+📫 https://www.linkedin.com/in/lekshmi-priya-j-s--8684382a9/
 
 🌟 Show Some Love
 If you like this project, consider giving it a ⭐ on GitHub and sharing it on LinkedIn!
