@@ -36,7 +36,7 @@ Built with ❤️ using **Streamlit**, **PyTorch (ResNet50)**, **FAISS**, and **
 
 | Upload Image | Product Matches | Google Results |
 |--------------|-----------------|----------------|
-| ![upload](assets/snap1.png) | ![matches](assets/snap2.pn , snap3.png) | ![google](assets/snap3.png) |
+| ![upload](assets/snap1.png) | ![matches](assets/snap2.png) | ![google](assets/snap3.png) |
 
 ---
 
