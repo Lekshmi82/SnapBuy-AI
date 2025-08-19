@@ -88,8 +88,9 @@ SnapBuy-AI/
 
 ---
 
-🌟 Show Some Love
+Show Some Love
 If you like this project, consider giving it a ⭐ on GitHub and sharing it on LinkedIn!
 It helps others discover this and motivates me to build more cool stuff 💙
 ---
+
 
