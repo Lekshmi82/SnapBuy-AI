@@ -85,16 +85,11 @@ SnapBuy-AI/
 ├── faiss.index
 ├── requirements.txt
 └── README.md
-📱 Live Demo (https://snapbuy-ai-k5lbwpm2jdzj5sms2kuus6.streamlit.app/)
-👉 Try it on Streamlit Cloud
-https://snapbuy-ai-k5lbwpm2jdzj5sms2kuus6.streamlit.app/
+
 ---
-🙋‍♀️ Author
-J.S. Lekshmi Priya
-📫 https://www.linkedin.com/in/lekshmi-priya-j-s--8684382a9/
-📫https://github.com/Lekshmi82
----
+
 🌟 Show Some Love
 If you like this project, consider giving it a ⭐ on GitHub and sharing it on LinkedIn!
 It helps others discover this and motivates me to build more cool stuff 💙
 ---
+
