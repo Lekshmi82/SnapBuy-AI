@@ -44,7 +44,7 @@ Built with ❤️ using **Streamlit**, **PyTorch (ResNet50)**, **FAISS**, and **
 
 1. Clone the repo:
 
-```bash
+bash
 git clone https://github.com/your-username/SnapBuy-AI.git
 cd SnapBuy-AI
 Install dependencies:
@@ -85,16 +85,16 @@ SnapBuy-AI/
 ├── faiss.index
 ├── requirements.txt
 └── README.md
-📱 Live Demo (optional)
+📱 Live Demo (https://snapbuy-ai-k5lbwpm2jdzj5sms2kuus6.streamlit.app/)
 👉 Try it on Streamlit Cloud
-(Replace with your link after deploy)
-
+https://snapbuy-ai-k5lbwpm2jdzj5sms2kuus6.streamlit.app/
+---
 🙋‍♀️ Author
 J.S. Lekshmi Priya
-📍 Final Year, Android Developer
-💡 Passionate about AI + App Development
 📫 https://www.linkedin.com/in/lekshmi-priya-j-s--8684382a9/
-
+📫https://github.com/Lekshmi82
+---
 🌟 Show Some Love
 If you like this project, consider giving it a ⭐ on GitHub and sharing it on LinkedIn!
 It helps others discover this and motivates me to build more cool stuff 💙
+---
